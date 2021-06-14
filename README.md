@@ -6,7 +6,7 @@ This is a small testing project that automates the Moat.com Web application.
 
 Clone Project:
 
- 1. git clone https://github.com/noshi1/InRhythm-Exercise.git
+ 1. git clone https://github.com/noshi1/test_moat.com.git
 
 Tools Required:
 
